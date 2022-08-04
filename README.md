@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 --> 
 
 
-## Oiii eu sou a Taisy Soares, nutricionista em transição de carreira, me aventurando na área de desenvolvimento!!
+## Oiii eu sou a Taisy Soares, DEV em formação!
 
 <div align="center">
   <a href="https://github.com/Taisy-psoares">
